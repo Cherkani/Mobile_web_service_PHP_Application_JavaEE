@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP_Voley</string>
+    <array name="villes">
+    <item>Marrackech</item>
+    <item>Casablanca</item>
+    <item>Rabat</item>
+    </array>
+</resources>
