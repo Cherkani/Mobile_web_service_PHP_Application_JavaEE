@@ -5,6 +5,7 @@ public class Etudiant {
     private String prenom;
     private String ville;
     private String sexe;
+
     public Etudiant() {
     }
     public Etudiant(int id, String nom, String prenom, String ville, String sexe) {
@@ -13,6 +14,7 @@ public class Etudiant {
         this.prenom = prenom;
         this.ville = ville;
         this.sexe = sexe;
+
     }
     public int getId() {
         return id;
@@ -44,4 +46,6 @@ public class Etudiant {
     public void setSexe(String sexe) {
         this.sexe = sexe;
     }
+
+
 }

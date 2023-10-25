@@ -14,5 +14,9 @@
     <style name="input">
         <item name="android:paddingBottom">20dp</item>
     </style>
-
+    <style name="AlertDialogCustomStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/dialog_background</item>
+        <item name="android:colorPrimary">#007ACC</item>
+        <item name="android:colorAccent">#FF4081</item>
+    </style>
 </resources>

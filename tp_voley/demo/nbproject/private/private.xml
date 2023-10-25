@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/projet/service/EtudiantService.php</file>
+            <file>file:/C:/xampp/htdocs/projet/dao/IDao.php</file>
+            <file>file:/C:/xampp/htdocs/projet/ws/updateEtudiant.php</file>
+            <file>file:/C:/xampp/htdocs/projet/racine.php</file>
+            <file>file:/C:/xampp/htdocs/projet/classes/Etudiant.php</file>
+            <file>file:/C:/xampp/htdocs/projet/controller/addEtudiant.php</file>
+            <file>file:/C:/xampp/htdocs/projet/ws/loadEtudiant.php</file>
+            <file>file:/C:/xampp/htdocs/projet/connexion/Connexion.php</file>
+            <file>file:/C:/xampp/htdocs/projet/ws/createEtudiant.php</file>
+            <file>file:/C:/xampp/htdocs/projet/index.php</file>
+            <file>file:/C:/xampp/htdocs/projet/controller/deleteEtudiant.php</file>
+        </group>
+    </open-files>
+</project-private>
